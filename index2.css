@@ -1,0 +1,32 @@
+body {
+  color: #dfd0b8;
+  background-color: #3c5b6f;
+}
+h1 {
+  background-color: #af8260;
+  text-align: center;
+  background-color: #3c5b6f;
+}
+p {
+  background-color: #af8260;
+  margin: 0px 7px 0px 0px;
+  padding: 0px 10px 20px 90px;
+}
+ul {
+  color: white;
+}
+h2 {
+  color: white;
+  background-color: #b5c18e;
+}
+h3 {
+  color: white;
+  background-color: black;
+}
+a {
+  color: white;
+}
+li {
+  color: white;
+  background-color: black;
+}
